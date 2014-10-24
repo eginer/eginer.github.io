@@ -1,7 +1,7 @@
 PhD manuscript
 ==============
 
-`Méthodes d'interaction de configurations et Monte Carlo quantique : marier le meilleur des deux monde <https://hal.archives-ouvertes.fr/tel-01077016>`_
+20th, Octobre 2014 : `Méthodes d'interaction de configurations et Monte Carlo quantique : marier le meilleur des deux monde <https://hal.archives-ouvertes.fr/tel-01077016>`_
 
 
 Publications
