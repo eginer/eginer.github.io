@@ -26,7 +26,7 @@
       </header>
       <section>
 
-<div class="document"> <div class="section" id="publications"> <h1>Publications</h1> <ul class="simple"> <li><a class="reference external" href="http://pouet.org">Papier 1 :</a></li> <li><a class="reference external" href="http://pouet.org">Papier 2 :</a></li> </ul> </div> <div class="section" id="oral-presentations"> <h1>Oral presentations</h1> <div class="section" id="sous-titre"> <h2>sous-titre</h2> <p>pouet</p> </div> </div> <div class="section" id="software"> <h1>Software</h1> <ul class="simple"> <li><a class="reference external" href="http://github.com/LCPQ/quantum_package">Quantum package</a></li> </ul> </div>
+INPUT
 
       </section>
     </div>
