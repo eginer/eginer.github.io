@@ -19,10 +19,12 @@
       <header>
         <h1>Web page of Emmanuel Giner</h1>
         <p>Configuration Interaction, Perturbation theory and post-Full-CI methods</p>
+<!--
         <p class="view"><a href="https://github.com/eginer">View the Project on GitHub <small>eginer</small></a></p>
         <ul>
           <li class="single"><a href="https://github.com/eginer/eginer.github.io">View On <strong>GitHub</strong></a></li>
         </ul>
+--!>
       </header>
       <section>
 
