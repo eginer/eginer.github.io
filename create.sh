@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rst2html input.rst > output.html
+rst2html --initial-header-level=2 input.rst > output.html
 declare -i BODY1
 declare -i BODY2
 BODY1=$(grep -n body output.html | cut -d ':' -f 1 | head -1)
