@@ -31,19 +31,10 @@ Oral presentations
 
   <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions"></script>
 
-2014 
-----
-
-.. raw:: html
-
   <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/new-mrpt2-method"></script>
 
 
-.. raw:: html
-
   <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions-part-2"></script>
-
-.. raw:: html
 
   <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/phd-defense"></script>
 
