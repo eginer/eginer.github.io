@@ -13,23 +13,40 @@ Publications
 * `Fixed-Node Diffusion Monte Carlo potential energy curve of the fluorine molecule F2 using selected configuration interaction trial wavefunctions <http://arxiv.org/abs/1408.3672>`_,
   Emmanuel Giner, Anthony Scemama and Michel Caffarel (2014), *J. Chem. Phys.*, arXiv:1408.3672 [physics.chem-ph]
 
-* `Spin density distribution in open-shell transition metal systems: A comparative post-Hartree-Fock, Density Functional Theory and quantum Monte Carlo study of the CuCl2 molecule <http://arxiv.org/abs/1405.4082>`_,
-  Michel Caffarel, Emmanuel Giner, Anthony Scemama and Alejandro Ramírez-Solís (2014)*J. Chem. Theor. Comp.*,  arXiv:1405.4082 [physics.chem-ph]
+* `Spin density distribution in open-shell transition metal systems: A comparative post-Hartree-Fock, Density Functional Theory and quantum Monte Carlo study of the CuCl2 molecule <http://pubs.acs.org/doi/abs/10.1021/ct5004252?journalCode=jctcce>`_,
+  Michel Caffarel, Emmanuel Giner, Anthony Scemama and Alejandro Ramírez-Solís (2014)*J. Chem. Theor. Comp.*
 
 * `Using perturbatively selected configuration interaction in quantum Monte Carlo calculations <http://www.nrcresearchpress.com/doi/abs/10.1139/cjc-2013-0017>`_,
   E. Giner, A. Scemama, and M. Caffarel, *Can. J. Chem.* 91(9), 879-885 (2013).
 
 
+Oral presentations
+==================
+
+2013
+----
+
 
 .. raw:: html
 
-  <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="//speakerdeck.com/assets/embed.js"></script>
+  <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions"></script>
+
+2014 
+----
+
+.. raw:: html
+
+  <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/new-mrpt2-method"></script>
 
 
-sous-titre
-----------
+.. raw:: html
 
-pouet
+  <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions-part-2"></script>
+
+.. raw:: html
+
+  <script async class="speakerdeck-embed" data-id="41ca6bb03c4f0132b60a725f34ab985a" data-ratio="1.33681462140992" src="https://speakerdeck.com/eginer/phd-defense"></script>
+
 
 Software
 ========
