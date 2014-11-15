@@ -19,11 +19,7 @@ Publications
 * `Using perturbatively selected configuration interaction in quantum Monte Carlo calculations <http://www.nrcresearchpress.com/doi/abs/10.1139/cjc-2013-0017>`_,
   E. Giner, A. Scemama, and M. Caffarel, *Can. J. Chem.* 91(9), 879-885 (2013).
 
-Oral presentations
-==================
 
-#. | `Un algorithme permettant de traiter plus d’un million d’atomes en chimie quantique <http://irpf90.ups-tlse.fr/files/reims2014.pdf>`__
-   | 30/9/2014 Maison de la simulation de l'Université de Reims Champagne-Ardenne
 
 .. raw:: html
 
