@@ -26,17 +26,19 @@ Oral presentations
 2013
 ----
 
-`Selected Configuration Interaction for QMC <https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions>`_, 
+* `Selected Configuration Interaction for QMC <https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions>`_, 
   GDR Correl meeting, Paris  2013
 
+* `Accurate                 ground-state energies of 3d transition metal atoms <http://arxiv.org/abs/1409.3671>`_,
+  Anthony Scemama, Thomas Applencourt, Emmanuel Giner and Michel Caffarel (2014), *J. Chem. Phys.*, arXiv:1409.3671 [physics.chem-ph]
 
 2014
 ----
 
-`Determinant based separable MRPT2 <https://speakerdeck.com/eginer/new-mrpt2-method>`_, 
+* `Determinant based separable MRPT2 <https://speakerdeck.com/eginer/new-mrpt2-method>`_, 
   Jujols meeting, Mülheim 2014
 
-`Selected Configuration Interaction for DMC <https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions-part-2>`_,
+* `Selected Configuration Interaction for DMC <https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions-part-2>`_,
   PAMO meeting, Reims 2014
 
 `Coupling Configuration Interaction ans quantum Monte Carlo : The best of both world <https://speakerdeck.com/eginer/phd-defense>`_,
