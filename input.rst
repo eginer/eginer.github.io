@@ -26,6 +26,22 @@ Oral presentations
 2013
 ----
 
+* `Selected Configuration Interaction for QMC <https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions>`_, 
+   GDR Correl meeting, Paris  2013
+
+
+2014
+----
+
+* `Determinant based separable MRPT2 <https://speakerdeck.com/eginer/new-mrpt2-method>`_, 
+   Jujols meeting, Mülheim 2014
+
+* `Selected Configuration Interaction for QMC <https://speakerdeck.com/eginer/fn-dmc-and-ci-wave-functions-part-2>`_,
+   PAMO meeting, Reims 2014
+
+* `Coupling Configuration Interaction ans quantum Monte Carlo : The best of both world <https://speakerdeck.com/eginer/phd-defense>`_,
+   Laboratoire de Chimie et Physique Quantique, Toulouse 2014
+
 
 .. raw:: html
 
